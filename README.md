@@ -2,27 +2,27 @@
 
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/reactnative-aora?label=Latest%20release&style=social)](https://github.com/ladunjexa/reactnative-aora/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/reactnative-aora?style=social)](https://github.com/ladunjexa/reactnative-aora/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/reactnative-aora?style=social)](https://github.com/ladunjexa/reactnative-aora/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactnative-aora?style=social&logo=github)](https://github.com/ladunjexa/reactnative-aora/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactnative-aora?style=social&logo=github)](https://github.com/ladunjexa/reactnative-aora/pulls)
+[![Latest release](https://img.shields.io/github/v/release/ladunjexa/expo-reactnative-aora?label=Latest%20release&style=social)](https://github.com/ladunjexa/expo-reactnative-aora/releases/tag/v0.1.0)
+[![Stars](https://img.shields.io/github/stars/ladunjexa/expo-reactnative-aora?style=social)](https://github.com/ladunjexa/expo-reactnative-aora/stargazers)
+[![Fork](https://img.shields.io/github/forks/ladunjexa/expo-reactnative-aora?style=social)](https://github.com/ladunjexa/expo-reactnative-aora/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/expo-reactnative-aora?style=social&logo=github)](https://github.com/ladunjexa/expo-reactnative-aora/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/expo-reactnative-aora?style=social&logo=github)](https://github.com/ladunjexa/expo-reactnative-aora/pulls)
 
 ![demo](https://i.ibb.co/djCrDzT/324992616-0831a528-0eef-4ed3-91ea-b7f720805622.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/reactnative-aora?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactnative-aora/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactnative-aora?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/reactnative-aora?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/reactnative-aora/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/reactnative-aora.svg)
+[![License](https://img.shields.io/github/license/ladunjexa/expo-reactnative-aora?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/expo-reactnative-aora/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/expo-reactnative-aora?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/ladunjexa/expo-reactnative-aora?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/expo-reactnative-aora/graphs/contributors)
+![Release](https://img.shields.io/github/release/ladunjexa/expo-reactnative-aora.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/reactnative-aora/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactnative-aora/badge.svg)](https://snyk.io/test/github/ladunjexa/reactnative-aora)
+![deployment](https://img.shields.io/github/deployments/ladunjexa/expo-reactnative-aora/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/expo-reactnative-aora/badge.svg)](https://snyk.io/test/github/ladunjexa/expo-reactnative-aora)
 
 <!-- ## 🌐 Live Demo
 
 Explore the live demonstration of the project:
-[reactnative-aora](https://reactnative-aora.vercel.app/) -->
+[reactnative-aora](https://expo-reactnative-aora.vercel.app/) -->
 
 ## 📝 Description
 
@@ -189,7 +189,7 @@ your local machine.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/reactnative-aora.git
+git clone https://github.com/ladunjexa/expo-reactnative-aora.git
 ```
 
 **Step 2:**
@@ -278,7 +278,7 @@ EXPO_PUBLIC_APPWRITE_STORAGE_ID=<APPWRITE_STORAGE_ID>
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactnative-aora)](https://github.com/ladunjexa/reactnative-aora/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=ladunjexa/expo-reactnative-aora)](https://github.com/ladunjexa/expo-reactnative-aora/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and
 create. Any contributions you make are **greatly appreciated**.
@@ -295,12 +295,12 @@ To fix a bug or enhance an existing module, follow these steps:
 ### 📩 Bug / Feature Request
 
 If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactnative-aora/issues/new) by including the issue with a title
-and clear description.
+[here](https://github.com/ladunjexa/expo-reactnative-aora/issues/new) by including the issue with a
+title and clear description.
 
 If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactnative-aora/issues/new). Please include sample queries and
-their corresponding results.
+[here](https://github.com/ladunjexa/expo-reactnative-aora/issues/new). Please include sample queries
+and their corresponding results.
 
 ## 💎 Acknowledgements
 
@@ -329,5 +329,5 @@ possible:
 ## 📋 License
 
 **Aora** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free
-to use — See [LICENSE](https://github.com/ladunjexa/reactnative-aora/blob/main/LICENSE) for more
-details.
+to use — See [LICENSE](https://github.com/ladunjexa/expo-reactnative-aora/blob/main/LICENSE) for
+more details.
